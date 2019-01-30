@@ -11,7 +11,6 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{basic first gem , to show off that i can make gems}
   spec.description   = %q{basic.}
-  spec.homepage      = "tkurudi.github.io"
   spec.license       = "MIT"
 
   
